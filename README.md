@@ -1104,7 +1104,7 @@ Detection results depend on the implemented rules, simulated dataset and availab
 
 <div align="center">
 
-# CloudStrike ⚡
+# CloudStrike 🛡️
 
 ### Simulate. Detect. Investigate.
 
