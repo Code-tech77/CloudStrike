@@ -1,6 +1,6 @@
 <div align="center">
 
-# CloudStrike ⚡
+# CloudStrike 🛡️
 
 ### Simulate. Detect. Investigate.
 
@@ -1112,6 +1112,6 @@ Detection results depend on the implemented rules, simulated dataset and availab
 
 Developed by **Mohammed Zuoriki**
 
-[GitHub](https://github.com/Code-tech77) · [LinkedIn](https://www.linkedin.com/)
+[LinkedIn](https://www.linkedin.com/in/mohammed-zuoriki-856133250/)
 
 </div>
