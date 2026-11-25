@@ -1,0 +1,477 @@
+[
+    {
+        "event_id": "5b8d374e-d005-4789-9a3b-47c15feee4b8",
+        "@timestamp": "2026-11-21T21:46:07.081437+00:00",
+        "user": {
+            "name": "alex"
+        },
+        "source": {
+            "ip": "198.51.100.20"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "success",
+            "kind": "event"
+        },
+        "message": "Normal user authentication"
+    },
+    {
+        "event_id": "d159ea19-ed5f-44ec-bf4c-658957ccce89",
+        "@timestamp": "2026-11-21T21:46:07.082326+00:00",
+        "user": {
+            "name": "admin"
+        },
+        "source": {
+            "ip": "198.51.100.20"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "success",
+            "kind": "event"
+        },
+        "message": "Normal user authentication"
+    },
+    {
+        "event_id": "8e829000-3e34-45ab-a31c-05d020e0d1be",
+        "@timestamp": "2026-11-21T21:46:07.082333+00:00",
+        "user": {
+            "name": "mohammed"
+        },
+        "source": {
+            "ip": "192.168.1.10"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "success",
+            "kind": "event"
+        },
+        "message": "Normal user authentication"
+    },
+    {
+        "event_id": "ffe3595e-682f-40a3-b9d3-746760999c32",
+        "@timestamp": "2026-11-21T21:46:07.082338+00:00",
+        "user": {
+            "name": "admin"
+        },
+        "source": {
+            "ip": "192.168.1.15"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "success",
+            "kind": "event"
+        },
+        "message": "Normal user authentication"
+    },
+    {
+        "event_id": "61fb73d1-d661-4b97-b91e-92a5eb89ed92",
+        "@timestamp": "2026-11-21T21:46:07.082343+00:00",
+        "user": {
+            "name": "alex"
+        },
+        "source": {
+            "ip": "198.51.100.20"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "success",
+            "kind": "event"
+        },
+        "message": "Normal user authentication"
+    },
+    {
+        "event_id": "3183b970-d7f8-493a-b6c6-ecb9f5f2d1f3",
+        "@timestamp": "2026-11-21T21:46:07.082347+00:00",
+        "user": {
+            "name": "sarah"
+        },
+        "source": {
+            "ip": "10.0.0.25"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "success",
+            "kind": "event"
+        },
+        "message": "Normal user authentication"
+    },
+    {
+        "event_id": "fc97b9b5-36d0-43b9-afbf-b483e3100212",
+        "@timestamp": "2026-11-21T21:46:07.082351+00:00",
+        "user": {
+            "name": "admin"
+        },
+        "source": {
+            "ip": "192.168.1.10"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "success",
+            "kind": "event"
+        },
+        "message": "Normal user authentication"
+    },
+    {
+        "event_id": "d637d9ae-686f-4072-b03d-7ab1caca382f",
+        "@timestamp": "2026-11-21T21:46:07.082355+00:00",
+        "user": {
+            "name": "alex"
+        },
+        "source": {
+            "ip": "198.51.100.20"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "success",
+            "kind": "event"
+        },
+        "message": "Normal user authentication"
+    },
+    {
+        "event_id": "dd1a9d3c-e275-457e-8e2a-0d1ad81b0ca7",
+        "@timestamp": "2026-11-21T21:46:07.082359+00:00",
+        "user": {
+            "name": "mohammed"
+        },
+        "source": {
+            "ip": "192.168.1.15"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "success",
+            "kind": "event"
+        },
+        "message": "Normal user authentication"
+    },
+    {
+        "event_id": "19d0679d-eed9-49eb-9ad8-4897d2147d21",
+        "@timestamp": "2026-11-21T21:46:07.082363+00:00",
+        "user": {
+            "name": "alex"
+        },
+        "source": {
+            "ip": "192.168.1.10"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "success",
+            "kind": "event"
+        },
+        "message": "Normal user authentication"
+    },
+    {
+        "event_id": "1340f6ef-0710-4b87-9527-9d4a8e58e07b",
+        "@timestamp": "2026-11-21T21:46:07.082367+00:00",
+        "user": {
+            "name": "admin"
+        },
+        "source": {
+            "ip": "203.0.113.100"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "failure",
+            "kind": "event"
+        },
+        "message": "Failed login attempt 1"
+    },
+    {
+        "event_id": "7940d5fb-ad8a-4a1b-bc0a-994e9d6e6b9c",
+        "@timestamp": "2026-11-21T21:46:07.082371+00:00",
+        "user": {
+            "name": "admin"
+        },
+        "source": {
+            "ip": "203.0.113.100"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "failure",
+            "kind": "event"
+        },
+        "message": "Failed login attempt 2"
+    },
+    {
+        "event_id": "9df5d63c-cf6f-47fc-95be-a934ce9027d1",
+        "@timestamp": "2026-11-21T21:46:07.082375+00:00",
+        "user": {
+            "name": "admin"
+        },
+        "source": {
+            "ip": "203.0.113.100"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "failure",
+            "kind": "event"
+        },
+        "message": "Failed login attempt 3"
+    },
+    {
+        "event_id": "ff2502ae-0c68-4a9e-8d54-f8a39d3f3f12",
+        "@timestamp": "2026-11-21T21:46:07.082379+00:00",
+        "user": {
+            "name": "admin"
+        },
+        "source": {
+            "ip": "203.0.113.100"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "failure",
+            "kind": "event"
+        },
+        "message": "Failed login attempt 4"
+    },
+    {
+        "event_id": "a2e5b8da-bd7f-4bf6-abd8-1a05b587b410",
+        "@timestamp": "2026-11-21T21:46:07.082382+00:00",
+        "user": {
+            "name": "admin"
+        },
+        "source": {
+            "ip": "203.0.113.100"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "failure",
+            "kind": "event"
+        },
+        "message": "Failed login attempt 5"
+    },
+    {
+        "event_id": "0aba69a0-3844-458d-8b71-80a462b3bd3e",
+        "@timestamp": "2026-11-21T21:46:07.082386+00:00",
+        "user": {
+            "name": "admin"
+        },
+        "source": {
+            "ip": "203.0.113.100"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "failure",
+            "kind": "event"
+        },
+        "message": "Failed login attempt 6"
+    },
+    {
+        "event_id": "06cc3136-8da4-4d6b-98be-617bdecda355",
+        "@timestamp": "2026-11-21T21:46:07.082392+00:00",
+        "user": {
+            "name": "admin"
+        },
+        "source": {
+            "ip": "203.0.113.100"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "failure",
+            "kind": "event"
+        },
+        "message": "Failed login attempt 7"
+    },
+    {
+        "event_id": "032ff6bf-1244-40da-9e72-069c3ebcbda1",
+        "@timestamp": "2026-11-21T21:46:07.082396+00:00",
+        "user": {
+            "name": "admin"
+        },
+        "source": {
+            "ip": "203.0.113.100"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "failure",
+            "kind": "event"
+        },
+        "message": "Failed login attempt 8"
+    },
+    {
+        "event_id": "6a52f35f-e7e9-4f56-8ed2-08f348e87d90",
+        "@timestamp": "2026-11-21T21:46:07.082400+00:00",
+        "user": {
+            "name": "admin"
+        },
+        "source": {
+            "ip": "203.0.113.100"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "failure",
+            "kind": "event"
+        },
+        "message": "Failed login attempt 9"
+    },
+    {
+        "event_id": "bd0df92a-f300-4e7c-a8f3-6736e7011357",
+        "@timestamp": "2026-11-21T21:46:07.082403+00:00",
+        "user": {
+            "name": "admin"
+        },
+        "source": {
+            "ip": "203.0.113.100"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "failure",
+            "kind": "event"
+        },
+        "message": "Failed login attempt 10"
+    },
+    {
+        "event_id": "070b30f2-1b85-4283-b0b4-38f18141d6de",
+        "@timestamp": "2026-11-21T21:46:07.082426+00:00",
+        "user": {
+            "name": "john"
+        },
+        "source": {
+            "ip": "198.51.100.50"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "failure",
+            "kind": "event"
+        },
+        "message": "Suspicious authentication attempt"
+    },
+    {
+        "event_id": "5428eb37-7cb9-4155-b0dd-e2180ee9dfa8",
+        "@timestamp": "2026-11-21T21:46:07.082430+00:00",
+        "user": {
+            "name": "sarah"
+        },
+        "source": {
+            "ip": "198.51.100.50"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "failure",
+            "kind": "event"
+        },
+        "message": "Suspicious authentication attempt"
+    },
+    {
+        "event_id": "bac9463c-f02b-4bfa-943d-738bb76f2f78",
+        "@timestamp": "2026-11-21T21:46:07.082434+00:00",
+        "user": {
+            "name": "alex"
+        },
+        "source": {
+            "ip": "198.51.100.50"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "failure",
+            "kind": "event"
+        },
+        "message": "Suspicious authentication attempt"
+    },
+    {
+        "event_id": "7b72b412-29c1-4755-a30c-89f40d13f9d4",
+        "@timestamp": "2026-11-21T21:46:07.082438+00:00",
+        "user": {
+            "name": "admin"
+        },
+        "source": {
+            "ip": "198.51.100.50"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "failure",
+            "kind": "event"
+        },
+        "message": "Suspicious authentication attempt"
+    },
+    {
+        "event_id": "02eca10f-f3d3-474b-a9fe-7888cc121dd9",
+        "@timestamp": "2026-11-21T21:46:07.082441+00:00",
+        "user": {
+            "name": "mohammed"
+        },
+        "source": {
+            "ip": "198.51.100.50"
+        },
+        "event": {
+            "category": [
+                "authentication"
+            ],
+            "action": "user_login",
+            "outcome": "failure",
+            "kind": "event"
+        },
+        "message": "Suspicious authentication attempt"
+    }
+]

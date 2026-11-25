@@ -1,0 +1,5 @@
+elasticsearch
+faker
+python-dotenv
+pydantic
+pytest
